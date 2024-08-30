@@ -108,7 +108,7 @@
     background-color: rgba(157, 215, 31, 0.3);
     display: flex;
     justify-content: center;
-    /* background-image: url('../images/parlour-banner.png'); */
+    background-image: url('../images/parlour-banner.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right center;
