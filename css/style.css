@@ -19,7 +19,7 @@
 .main-container header{
     height: 15%;
     width: 100%;
-    background-color: lightblue;
+    /* background-color: lightblue; */
     /* display: flex;
     justify-content: center; */
 }
@@ -105,7 +105,7 @@
 .main-container .banner-container{
     height: 85%;
     width: 100%;
-    background-color: rgb(117, 117, 228,0.3);
+    background-color: rgba(157, 215, 31, 0.3);
     display: flex;
     justify-content: center;
     /* background-image: url('../images/parlour-banner.png'); */
